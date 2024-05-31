@@ -5,4 +5,4 @@ The CSE Project Documentation file showcases instructions on how to run the prog
 
 Here is an image of the application:
 
-![Application]([https://github.com/stoiadj/Football-Transfer-Market-Searcher/blob/main/Java%20Application%20Image.png](https://github.com/stoiadj/Football-Player-Searcher/blob/main/Java%20Application%20Image.png))
+![Application](https://github.com/stoiadj/Football-Transfer-Market-Searcher/blob/main/Java%20Application%20Image.png](https://github.com/stoiadj/Football-Player-Searcher/blob/main/Java%20Application%20Image.png))
